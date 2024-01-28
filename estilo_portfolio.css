@@ -3,8 +3,17 @@
     background-color: #f5f6f7;
 }
 
+/* Adaptable presponsiva */
+
 @media screen and (max-width: 767px){
     .navbar-brand{
         display: none;
     }
+}
+
+.bordes-redondeados{
+    width: 400px;
+    border-radius: 50%;
+
+
 }
