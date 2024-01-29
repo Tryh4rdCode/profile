@@ -29,3 +29,6 @@ section{
 .navbar-brand {
     padding-right: 40px;
 }
+h1 {
+    padding: 10px;
+}
