@@ -1,6 +1,5 @@
 .navbar{
     width: 100%;
-    padding: 2rem;
     background-color: #f5f6f7;
 }
 
@@ -25,4 +24,8 @@ section{
 .bordes-redondeados{
     width: 350px;
     border-radius: 50%;
+}
+
+.navbar-brand {
+    padding-right: 40px;
 }
