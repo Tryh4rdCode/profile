@@ -21,11 +21,6 @@ section{
 
 /* Adaptable presponsiva */
 
-@media screen and (max-width: 767px){
-    .navbar-brand{
-        display: none;
-    }
-}
 
 .bordes-redondeados{
     width: 350px;
